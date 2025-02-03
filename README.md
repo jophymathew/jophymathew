@@ -21,7 +21,7 @@
 - 📫 Reach me at **jophymathew17@gmail.com**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500px">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500px " style="object-fit: cover;">>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" >
 </p>
 
 ---
