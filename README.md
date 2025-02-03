@@ -43,8 +43,16 @@
 ### 📌 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jophymathew&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jophymathew&theme=dark&background=1E1E1E&fire=FF6F61&currStreakNum=F9AB00&sideNums=3B82F6" width="48%" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jophymathew&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jophymathew&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jophymathew&layout=compact&theme=radical&langs_count=6&hide_border=true" width="48%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
