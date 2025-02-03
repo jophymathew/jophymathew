@@ -44,19 +44,19 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jophymathew&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jophymathew&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" width="48%" alt="GitHub Stats" />
   
-  <!-- Alternative GitHub Streak (New Working Link) -->
-  <img src="https://github-readme-streak-stats.demolab.com?user=jophymathew&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <!-- GitHub Streak (New Stable Link) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jophymathew&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jophymathew&layout=compact&theme=radical&langs_count=6&hide_border=true" width="48%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jophymathew&layout=donut&theme=tokyonight&langs_count=8&hide_border=true" width="38%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px" width="400px">
 </p>
 
 ---
