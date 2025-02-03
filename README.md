@@ -1,10 +1,8 @@
-
 <h1 align="center">Hi, I'm Jophy Mary Mathew! 👋</h1>
 
 <p align="center">
   <img src="header.jpg" width="100%" height="200px" style="object-fit: cover;">
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -21,7 +19,7 @@
 - 📫 Reach me at **jophymathew17@gmail.com**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500px " style="object-fit: cover;">>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500px" style="object-fit: cover;">
 </p>
 
 ---
@@ -43,9 +41,10 @@
 ---
 
 ### 📌 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jophymathew&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jophymathew&theme=dark&background=1E1E1E&fire=FF6F61&currStreakNum=F9AB00&sideNums=3B82F6" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -55,18 +54,20 @@
 ---
 
 ### 🔥 My Contributions
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=redical">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jophymathew&theme=radical&bg_color=1E1E1E&color=F9AB00&line=F9AB00&point=FF6F61&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%">
 </p>
 
 ---
 
 ### 🌍 Connect with Me
+
 <p align="center">
-  <a href="www.linkedin.com/in/jophy-mary-mathew-a0a5551b6">
+  <a href="https://www.linkedin.com/in/jophy-mary-mathew-a0a5551b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="[https://github.com/your-github-username](https://github.com/jophymathew">
+  <a href="https://github.com/jophymathew" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:jophymathew17@gmail.com">
