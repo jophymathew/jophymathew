@@ -83,6 +83,8 @@
   <img src="https://komarev.com/ghpvc/?username=jophymathew&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
 </p>
 
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px">
 </p>
