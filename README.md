@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Fun GIF]([https://media.giphy.com/media/YOUR-GIF-URL/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR3MXFlYTB4cmE2bjhwdTlha2gyeXFpOWxvZDlucmgxYm5qbzE0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif))
+
 
 <!--
 **jophymathew/jophymathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
