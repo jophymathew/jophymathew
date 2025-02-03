@@ -1,7 +1,10 @@
-![Header](https://raw.githubusercontent.com/kautukkundan/Awesome-Profile-README-templates/master/images/header.png)
-
 
 <h1 align="center">Hi, I'm Jophy Mary Mathew! 👋</h1>
+
+<p align="center">
+  <img src="header.jpg" width="100%" height="200px" style="object-fit: cover;">
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
