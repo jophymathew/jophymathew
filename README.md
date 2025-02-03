@@ -46,8 +46,8 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jophymathew&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jophymathew&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <!-- Alternative GitHub Streak (New Working Link) -->
+  <img src="https://github-readme-streak-stats.demolab.com?user=jophymathew&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
